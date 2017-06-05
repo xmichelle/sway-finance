@@ -39,3 +39,20 @@ img {
   font-size: 15px;
   color: #728993;
 }
+
+.header {
+  font-family: Roboto, sans-serif;
+  color: #fff;
+}
+
+#heading1 {
+  font-size: 37px;
+  font-weight: 300;
+  letter-spacing: 2px;
+}
+
+#heading2 {
+  font-size: 16px;
+  font-weight: 200;
+  letter-spacing: 1px;
+}
