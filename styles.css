@@ -13,3 +13,29 @@ img {
   margin-right: auto;
   max-width: 940px;
 }
+
+.navigation {
+  display: inline-block;
+  position: relative;
+  left: 60%;
+}
+
+#faq {
+  width: 66.64px;
+  box-sizing: border-box;
+  padding: 20px;
+  text-decoration: none;
+  font-family: Roboto, sans-serif;
+  font-size: 15px;
+  color: #728993;
+}
+
+#security {
+  width: 92.97px;
+  box-sizing: border-box;
+  padding: 20px;
+  text-decoration: none;
+  font-family: Roboto, sans-serif;
+  font-size: 15px;
+  color: #728993;
+}
