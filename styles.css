@@ -2,7 +2,7 @@ body {
   background-image: url(images/background.png);
 }
 
-img {
+#logo {
   width: 154px;
   position: relative;
   padding-top: 31px;
@@ -47,19 +47,30 @@ img {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
+  height: 239px;
+  margin-bottom: 18px;
+  padding-top: 128px;
+  box-sizing: border-box;
 }
 
 #heading1 {
   font-size: 37px;
   font-weight: 300;
   letter-spacing: 2px;
-  margin-bottom: 18px;
-  padding-top: 128px;
-  box-sizing: border-box;
+  padding: 0.5%;
 }
 
 #heading2 {
   font-size: 16px;
   font-weight: 200;
   letter-spacing: 1px;
+}
+
+.figure {
+  margin-top: 24px;
+  box-sizing: border-box;
+}
+
+#swaybot {
+  max-width: 100%;
 }
